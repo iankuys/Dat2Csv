@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Dat2Csv": {
+      "commandName": "Project",
+      "commandLineArgs": "-i D:\\ooo3 -o D:\\ooo3\\out"
+    }
+  }
+}
